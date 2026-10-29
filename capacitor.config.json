@@ -1,0 +1,8 @@
+{
+  "appId": "com.focusforge.student",
+  "appName": "FocusForge",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

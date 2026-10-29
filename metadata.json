@@ -1,0 +1,6 @@
+{
+  "name": "FocusForge",
+  "description": "Professional student productivity & study planner application tailored for Bangladeshi students in Class 9, 10, HSC 1st and 2nd Year with pomodoro focus timer, subject syllabus tracking, and study analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
